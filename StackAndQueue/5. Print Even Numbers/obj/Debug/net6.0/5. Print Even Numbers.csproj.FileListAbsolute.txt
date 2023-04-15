@@ -1,0 +1,15 @@
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\StackAndQueue\5. Print Even Numbers\bin\Debug\net6.0\5. Print Even Numbers.exe
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\StackAndQueue\5. Print Even Numbers\bin\Debug\net6.0\5. Print Even Numbers.deps.json
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\StackAndQueue\5. Print Even Numbers\bin\Debug\net6.0\5. Print Even Numbers.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\StackAndQueue\5. Print Even Numbers\bin\Debug\net6.0\5. Print Even Numbers.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\StackAndQueue\5. Print Even Numbers\bin\Debug\net6.0\5. Print Even Numbers.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\StackAndQueue\5. Print Even Numbers\obj\Debug\net6.0\5. Print Even Numbers.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\StackAndQueue\5. Print Even Numbers\obj\Debug\net6.0\5. Print Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\StackAndQueue\5. Print Even Numbers\obj\Debug\net6.0\5. Print Even Numbers.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\StackAndQueue\5. Print Even Numbers\obj\Debug\net6.0\5. Print Even Numbers.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\StackAndQueue\5. Print Even Numbers\obj\Debug\net6.0\5. Print Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\StackAndQueue\5. Print Even Numbers\obj\Debug\net6.0\5. Print Even Numbers.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\StackAndQueue\5. Print Even Numbers\obj\Debug\net6.0\refint\5. Print Even Numbers.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\StackAndQueue\5. Print Even Numbers\obj\Debug\net6.0\5. Print Even Numbers.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\StackAndQueue\5. Print Even Numbers\obj\Debug\net6.0\5. Print Even Numbers.genruntimeconfig.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\StackAndQueue\5. Print Even Numbers\obj\Debug\net6.0\ref\5. Print Even Numbers.dll

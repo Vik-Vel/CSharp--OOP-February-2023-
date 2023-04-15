@@ -1,0 +1,15 @@
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\1. Sum Matrix Elements\bin\Debug\net6.0\1. Sum Matrix Elements.exe
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\1. Sum Matrix Elements\bin\Debug\net6.0\1. Sum Matrix Elements.deps.json
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\1. Sum Matrix Elements\bin\Debug\net6.0\1. Sum Matrix Elements.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\1. Sum Matrix Elements\bin\Debug\net6.0\1. Sum Matrix Elements.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\1. Sum Matrix Elements\bin\Debug\net6.0\1. Sum Matrix Elements.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\1. Sum Matrix Elements\obj\Debug\net6.0\1. Sum Matrix Elements.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\1. Sum Matrix Elements\obj\Debug\net6.0\1. Sum Matrix Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\1. Sum Matrix Elements\obj\Debug\net6.0\1. Sum Matrix Elements.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\1. Sum Matrix Elements\obj\Debug\net6.0\1. Sum Matrix Elements.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\1. Sum Matrix Elements\obj\Debug\net6.0\1. Sum Matrix Elements.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\1. Sum Matrix Elements\obj\Debug\net6.0\1. Sum Matrix Elements.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\1. Sum Matrix Elements\obj\Debug\net6.0\refint\1. Sum Matrix Elements.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\1. Sum Matrix Elements\obj\Debug\net6.0\1. Sum Matrix Elements.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\1. Sum Matrix Elements\obj\Debug\net6.0\1. Sum Matrix Elements.genruntimeconfig.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\1. Sum Matrix Elements\obj\Debug\net6.0\ref\1. Sum Matrix Elements.dll

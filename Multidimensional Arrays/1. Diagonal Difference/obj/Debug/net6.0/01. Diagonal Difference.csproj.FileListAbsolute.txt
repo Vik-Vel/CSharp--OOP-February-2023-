@@ -1,0 +1,15 @@
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\1. Diagonal Difference\bin\Debug\net6.0\01. Diagonal Difference.exe
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\1. Diagonal Difference\bin\Debug\net6.0\01. Diagonal Difference.deps.json
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\1. Diagonal Difference\bin\Debug\net6.0\01. Diagonal Difference.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\1. Diagonal Difference\bin\Debug\net6.0\01. Diagonal Difference.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\1. Diagonal Difference\bin\Debug\net6.0\01. Diagonal Difference.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\1. Diagonal Difference\obj\Debug\net6.0\01. Diagonal Difference.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\1. Diagonal Difference\obj\Debug\net6.0\01. Diagonal Difference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\1. Diagonal Difference\obj\Debug\net6.0\01. Diagonal Difference.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\1. Diagonal Difference\obj\Debug\net6.0\01. Diagonal Difference.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\1. Diagonal Difference\obj\Debug\net6.0\01. Diagonal Difference.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\1. Diagonal Difference\obj\Debug\net6.0\01. Diagonal Difference.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\1. Diagonal Difference\obj\Debug\net6.0\refint\01. Diagonal Difference.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\1. Diagonal Difference\obj\Debug\net6.0\01. Diagonal Difference.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\1. Diagonal Difference\obj\Debug\net6.0\01. Diagonal Difference.genruntimeconfig.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\1. Diagonal Difference\obj\Debug\net6.0\ref\01. Diagonal Difference.dll

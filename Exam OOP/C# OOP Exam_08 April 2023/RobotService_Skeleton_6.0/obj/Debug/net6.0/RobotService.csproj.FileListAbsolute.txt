@@ -1,0 +1,15 @@
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Exam OOP\C# OOP Exam_08 April 2023\RobotService_Skeleton_6.0\bin\Debug\net6.0\RobotService.exe
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Exam OOP\C# OOP Exam_08 April 2023\RobotService_Skeleton_6.0\bin\Debug\net6.0\RobotService.deps.json
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Exam OOP\C# OOP Exam_08 April 2023\RobotService_Skeleton_6.0\bin\Debug\net6.0\RobotService.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Exam OOP\C# OOP Exam_08 April 2023\RobotService_Skeleton_6.0\bin\Debug\net6.0\RobotService.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Exam OOP\C# OOP Exam_08 April 2023\RobotService_Skeleton_6.0\bin\Debug\net6.0\RobotService.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Exam OOP\C# OOP Exam_08 April 2023\RobotService_Skeleton_6.0\obj\Debug\net6.0\RobotService.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Exam OOP\C# OOP Exam_08 April 2023\RobotService_Skeleton_6.0\obj\Debug\net6.0\RobotService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Exam OOP\C# OOP Exam_08 April 2023\RobotService_Skeleton_6.0\obj\Debug\net6.0\RobotService.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Exam OOP\C# OOP Exam_08 April 2023\RobotService_Skeleton_6.0\obj\Debug\net6.0\RobotService.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Exam OOP\C# OOP Exam_08 April 2023\RobotService_Skeleton_6.0\obj\Debug\net6.0\RobotService.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Exam OOP\C# OOP Exam_08 April 2023\RobotService_Skeleton_6.0\obj\Debug\net6.0\RobotService.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Exam OOP\C# OOP Exam_08 April 2023\RobotService_Skeleton_6.0\obj\Debug\net6.0\refint\RobotService.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Exam OOP\C# OOP Exam_08 April 2023\RobotService_Skeleton_6.0\obj\Debug\net6.0\RobotService.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Exam OOP\C# OOP Exam_08 April 2023\RobotService_Skeleton_6.0\obj\Debug\net6.0\RobotService.genruntimeconfig.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Exam OOP\C# OOP Exam_08 April 2023\RobotService_Skeleton_6.0\obj\Debug\net6.0\ref\RobotService.dll

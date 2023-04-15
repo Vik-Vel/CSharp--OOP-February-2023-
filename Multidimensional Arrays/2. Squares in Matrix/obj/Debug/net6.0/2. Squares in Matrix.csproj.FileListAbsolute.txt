@@ -1,0 +1,15 @@
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\2. Squares in Matrix\bin\Debug\net6.0\2. Squares in Matrix.exe
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\2. Squares in Matrix\bin\Debug\net6.0\2. Squares in Matrix.deps.json
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\2. Squares in Matrix\bin\Debug\net6.0\2. Squares in Matrix.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\2. Squares in Matrix\bin\Debug\net6.0\2. Squares in Matrix.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\2. Squares in Matrix\bin\Debug\net6.0\2. Squares in Matrix.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\2. Squares in Matrix\obj\Debug\net6.0\2. Squares in Matrix.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\2. Squares in Matrix\obj\Debug\net6.0\2. Squares in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\2. Squares in Matrix\obj\Debug\net6.0\2. Squares in Matrix.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\2. Squares in Matrix\obj\Debug\net6.0\2. Squares in Matrix.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\2. Squares in Matrix\obj\Debug\net6.0\2. Squares in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\2. Squares in Matrix\obj\Debug\net6.0\2. Squares in Matrix.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\2. Squares in Matrix\obj\Debug\net6.0\refint\2. Squares in Matrix.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\2. Squares in Matrix\obj\Debug\net6.0\2. Squares in Matrix.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\2. Squares in Matrix\obj\Debug\net6.0\2. Squares in Matrix.genruntimeconfig.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\2. Squares in Matrix\obj\Debug\net6.0\ref\2. Squares in Matrix.dll

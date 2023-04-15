@@ -1,0 +1,15 @@
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Inheritance\01.SingleInheritance\bin\Debug\net6.0\01.SingleInheritance.exe
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Inheritance\01.SingleInheritance\bin\Debug\net6.0\01.SingleInheritance.deps.json
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Inheritance\01.SingleInheritance\bin\Debug\net6.0\01.SingleInheritance.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Inheritance\01.SingleInheritance\bin\Debug\net6.0\01.SingleInheritance.dll
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Inheritance\01.SingleInheritance\bin\Debug\net6.0\01.SingleInheritance.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Inheritance\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Inheritance\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Inheritance\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Inheritance\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Inheritance\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Inheritance\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.dll
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Inheritance\01.SingleInheritance\obj\Debug\net6.0\refint\01.SingleInheritance.dll
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Inheritance\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Inheritance\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.genruntimeconfig.cache
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Inheritance\01.SingleInheritance\obj\Debug\net6.0\ref\01.SingleInheritance.dll

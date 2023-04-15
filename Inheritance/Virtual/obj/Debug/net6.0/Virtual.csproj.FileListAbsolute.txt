@@ -1,0 +1,15 @@
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Inheritance\Virtual\bin\Debug\net6.0\Virtual.exe
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Inheritance\Virtual\bin\Debug\net6.0\Virtual.deps.json
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Inheritance\Virtual\bin\Debug\net6.0\Virtual.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Inheritance\Virtual\bin\Debug\net6.0\Virtual.dll
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Inheritance\Virtual\bin\Debug\net6.0\Virtual.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Inheritance\Virtual\obj\Debug\net6.0\Virtual.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Inheritance\Virtual\obj\Debug\net6.0\Virtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Inheritance\Virtual\obj\Debug\net6.0\Virtual.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Inheritance\Virtual\obj\Debug\net6.0\Virtual.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Inheritance\Virtual\obj\Debug\net6.0\Virtual.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Inheritance\Virtual\obj\Debug\net6.0\Virtual.dll
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Inheritance\Virtual\obj\Debug\net6.0\refint\Virtual.dll
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Inheritance\Virtual\obj\Debug\net6.0\Virtual.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Inheritance\Virtual\obj\Debug\net6.0\Virtual.genruntimeconfig.cache
+C:\Users\Виктория\Desktop\SoftUni\C# Advanced\Inheritance\Virtual\obj\Debug\net6.0\ref\Virtual.dll

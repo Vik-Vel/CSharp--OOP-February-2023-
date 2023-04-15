@@ -1,0 +1,15 @@
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\StackAndQueue\3. Simple Calculator\bin\Debug\net6.0\3. Simple Calculator.exe
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\StackAndQueue\3. Simple Calculator\bin\Debug\net6.0\3. Simple Calculator.deps.json
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\StackAndQueue\3. Simple Calculator\bin\Debug\net6.0\3. Simple Calculator.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\StackAndQueue\3. Simple Calculator\bin\Debug\net6.0\3. Simple Calculator.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\StackAndQueue\3. Simple Calculator\bin\Debug\net6.0\3. Simple Calculator.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\StackAndQueue\3. Simple Calculator\obj\Debug\net6.0\3. Simple Calculator.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\StackAndQueue\3. Simple Calculator\obj\Debug\net6.0\3. Simple Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\StackAndQueue\3. Simple Calculator\obj\Debug\net6.0\3. Simple Calculator.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\StackAndQueue\3. Simple Calculator\obj\Debug\net6.0\3. Simple Calculator.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\StackAndQueue\3. Simple Calculator\obj\Debug\net6.0\3. Simple Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\StackAndQueue\3. Simple Calculator\obj\Debug\net6.0\3. Simple Calculator.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\StackAndQueue\3. Simple Calculator\obj\Debug\net6.0\refint\3. Simple Calculator.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\StackAndQueue\3. Simple Calculator\obj\Debug\net6.0\3. Simple Calculator.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\StackAndQueue\3. Simple Calculator\obj\Debug\net6.0\3. Simple Calculator.genruntimeconfig.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\StackAndQueue\3. Simple Calculator\obj\Debug\net6.0\ref\3. Simple Calculator.dll

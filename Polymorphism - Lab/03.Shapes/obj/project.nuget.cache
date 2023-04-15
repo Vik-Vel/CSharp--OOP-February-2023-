@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "p523Ta0cD98+vAtqqrXDInOISJXtKQy4jia27+gRumPlULvukE5yW7LeizXPu33um/PRHlgyvvpLV970VHWxCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Виктория\\Desktop\\SoftUni\\C# OOP\\Polymorphism - Lab\\03.Shapes\\03.Shapes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Виктория\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Виктория\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Виктория\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Lab\Shapes\bin\Debug\net6.0\Shapes.exe
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Lab\Shapes\bin\Debug\net6.0\Shapes.deps.json
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Lab\Shapes\bin\Debug\net6.0\Shapes.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Lab\Shapes\bin\Debug\net6.0\Shapes.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Lab\Shapes\bin\Debug\net6.0\Shapes.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Lab\Shapes\obj\Debug\net6.0\Shapes.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Lab\Shapes\obj\Debug\net6.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Lab\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Lab\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Lab\Shapes\obj\Debug\net6.0\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Lab\Shapes\obj\Debug\net6.0\Shapes.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Lab\Shapes\obj\Debug\net6.0\refint\Shapes.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Lab\Shapes\obj\Debug\net6.0\Shapes.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Lab\Shapes\obj\Debug\net6.0\Shapes.genruntimeconfig.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Lab\Shapes\obj\Debug\net6.0\ref\Shapes.dll

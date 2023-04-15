@@ -1,0 +1,15 @@
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\5. Square With Maximum Sum\bin\Debug\net6.0\5. Square With Maximum Sum.exe
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\5. Square With Maximum Sum\bin\Debug\net6.0\5. Square With Maximum Sum.deps.json
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\5. Square With Maximum Sum\bin\Debug\net6.0\5. Square With Maximum Sum.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\5. Square With Maximum Sum\bin\Debug\net6.0\5. Square With Maximum Sum.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\5. Square With Maximum Sum\bin\Debug\net6.0\5. Square With Maximum Sum.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\5. Square With Maximum Sum\obj\Debug\net6.0\5. Square With Maximum Sum.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\5. Square With Maximum Sum\obj\Debug\net6.0\5. Square With Maximum Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\5. Square With Maximum Sum\obj\Debug\net6.0\5. Square With Maximum Sum.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\5. Square With Maximum Sum\obj\Debug\net6.0\5. Square With Maximum Sum.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\5. Square With Maximum Sum\obj\Debug\net6.0\5. Square With Maximum Sum.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\5. Square With Maximum Sum\obj\Debug\net6.0\5. Square With Maximum Sum.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\5. Square With Maximum Sum\obj\Debug\net6.0\refint\5. Square With Maximum Sum.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\5. Square With Maximum Sum\obj\Debug\net6.0\5. Square With Maximum Sum.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\5. Square With Maximum Sum\obj\Debug\net6.0\5. Square With Maximum Sum.genruntimeconfig.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\5. Square With Maximum Sum\obj\Debug\net6.0\ref\5. Square With Maximum Sum.dll

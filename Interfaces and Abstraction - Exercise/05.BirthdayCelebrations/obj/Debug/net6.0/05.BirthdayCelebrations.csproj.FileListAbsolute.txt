@@ -1,0 +1,15 @@
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\bin\Debug\net6.0\05.BirthdayCelebrations.exe
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\bin\Debug\net6.0\05.BirthdayCelebrations.deps.json
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\bin\Debug\net6.0\05.BirthdayCelebrations.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\bin\Debug\net6.0\05.BirthdayCelebrations.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\bin\Debug\net6.0\05.BirthdayCelebrations.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\obj\Debug\net6.0\05.BirthdayCelebrations.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\obj\Debug\net6.0\05.BirthdayCelebrations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\obj\Debug\net6.0\05.BirthdayCelebrations.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\obj\Debug\net6.0\05.BirthdayCelebrations.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\obj\Debug\net6.0\05.BirthdayCelebrations.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\obj\Debug\net6.0\05.BirthdayCelebrations.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\obj\Debug\net6.0\refint\05.BirthdayCelebrations.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\obj\Debug\net6.0\05.BirthdayCelebrations.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\obj\Debug\net6.0\05.BirthdayCelebrations.genruntimeconfig.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\obj\Debug\net6.0\ref\05.BirthdayCelebrations.dll

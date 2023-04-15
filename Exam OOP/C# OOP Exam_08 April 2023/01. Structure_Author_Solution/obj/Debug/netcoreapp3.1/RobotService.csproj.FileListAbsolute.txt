@@ -1,0 +1,14 @@
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Exam OOP\C# OOP Exam_08 April 2023\01. Structure_Author_Solution\bin\Debug\netcoreapp3.1\RobotService.exe
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Exam OOP\C# OOP Exam_08 April 2023\01. Structure_Author_Solution\bin\Debug\netcoreapp3.1\RobotService.deps.json
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Exam OOP\C# OOP Exam_08 April 2023\01. Structure_Author_Solution\bin\Debug\netcoreapp3.1\RobotService.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Exam OOP\C# OOP Exam_08 April 2023\01. Structure_Author_Solution\bin\Debug\netcoreapp3.1\RobotService.runtimeconfig.dev.json
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Exam OOP\C# OOP Exam_08 April 2023\01. Structure_Author_Solution\bin\Debug\netcoreapp3.1\RobotService.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Exam OOP\C# OOP Exam_08 April 2023\01. Structure_Author_Solution\bin\Debug\netcoreapp3.1\RobotService.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Exam OOP\C# OOP Exam_08 April 2023\01. Structure_Author_Solution\obj\Debug\netcoreapp3.1\RobotService.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Exam OOP\C# OOP Exam_08 April 2023\01. Structure_Author_Solution\obj\Debug\netcoreapp3.1\RobotService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Exam OOP\C# OOP Exam_08 April 2023\01. Structure_Author_Solution\obj\Debug\netcoreapp3.1\RobotService.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Exam OOP\C# OOP Exam_08 April 2023\01. Structure_Author_Solution\obj\Debug\netcoreapp3.1\RobotService.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Exam OOP\C# OOP Exam_08 April 2023\01. Structure_Author_Solution\obj\Debug\netcoreapp3.1\RobotService.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Exam OOP\C# OOP Exam_08 April 2023\01. Structure_Author_Solution\obj\Debug\netcoreapp3.1\RobotService.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Exam OOP\C# OOP Exam_08 April 2023\01. Structure_Author_Solution\obj\Debug\netcoreapp3.1\RobotService.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Exam OOP\C# OOP Exam_08 April 2023\01. Structure_Author_Solution\obj\Debug\netcoreapp3.1\RobotService.genruntimeconfig.cache

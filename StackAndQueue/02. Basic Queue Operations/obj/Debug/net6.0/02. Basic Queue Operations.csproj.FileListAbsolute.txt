@@ -1,0 +1,15 @@
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\StackAndQueue\02. Basic Queue Operations\obj\Debug\net6.0\02. Basic Queue Operations.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\StackAndQueue\02. Basic Queue Operations\obj\Debug\net6.0\02. Basic Queue Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\StackAndQueue\02. Basic Queue Operations\obj\Debug\net6.0\02. Basic Queue Operations.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\StackAndQueue\02. Basic Queue Operations\obj\Debug\net6.0\02. Basic Queue Operations.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\StackAndQueue\02. Basic Queue Operations\obj\Debug\net6.0\02. Basic Queue Operations.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\StackAndQueue\02. Basic Queue Operations\bin\Debug\net6.0\02. Basic Queue Operations.exe
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\StackAndQueue\02. Basic Queue Operations\bin\Debug\net6.0\02. Basic Queue Operations.deps.json
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\StackAndQueue\02. Basic Queue Operations\bin\Debug\net6.0\02. Basic Queue Operations.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\StackAndQueue\02. Basic Queue Operations\bin\Debug\net6.0\02. Basic Queue Operations.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\StackAndQueue\02. Basic Queue Operations\bin\Debug\net6.0\02. Basic Queue Operations.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\StackAndQueue\02. Basic Queue Operations\obj\Debug\net6.0\02. Basic Queue Operations.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\StackAndQueue\02. Basic Queue Operations\obj\Debug\net6.0\refint\02. Basic Queue Operations.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\StackAndQueue\02. Basic Queue Operations\obj\Debug\net6.0\02. Basic Queue Operations.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\StackAndQueue\02. Basic Queue Operations\obj\Debug\net6.0\02. Basic Queue Operations.genruntimeconfig.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\StackAndQueue\02. Basic Queue Operations\obj\Debug\net6.0\ref\02. Basic Queue Operations.dll

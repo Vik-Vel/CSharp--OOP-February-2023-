@@ -1,0 +1,15 @@
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Practices with Interfaces and Abstraction\1.DefineAnInterfaceIPerson\bin\Debug\net6.0\1.DefineAnInterfaceIPerson.exe
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Practices with Interfaces and Abstraction\1.DefineAnInterfaceIPerson\bin\Debug\net6.0\1.DefineAnInterfaceIPerson.deps.json
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Practices with Interfaces and Abstraction\1.DefineAnInterfaceIPerson\bin\Debug\net6.0\1.DefineAnInterfaceIPerson.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Practices with Interfaces and Abstraction\1.DefineAnInterfaceIPerson\bin\Debug\net6.0\1.DefineAnInterfaceIPerson.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Practices with Interfaces and Abstraction\1.DefineAnInterfaceIPerson\bin\Debug\net6.0\1.DefineAnInterfaceIPerson.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Practices with Interfaces and Abstraction\1.DefineAnInterfaceIPerson\obj\Debug\net6.0\1.DefineAnInterfaceIPerson.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Practices with Interfaces and Abstraction\1.DefineAnInterfaceIPerson\obj\Debug\net6.0\1.DefineAnInterfaceIPerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Practices with Interfaces and Abstraction\1.DefineAnInterfaceIPerson\obj\Debug\net6.0\1.DefineAnInterfaceIPerson.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Practices with Interfaces and Abstraction\1.DefineAnInterfaceIPerson\obj\Debug\net6.0\1.DefineAnInterfaceIPerson.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Practices with Interfaces and Abstraction\1.DefineAnInterfaceIPerson\obj\Debug\net6.0\1.DefineAnInterfaceIPerson.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Practices with Interfaces and Abstraction\1.DefineAnInterfaceIPerson\obj\Debug\net6.0\1.DefineAnInterfaceIPerson.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Practices with Interfaces and Abstraction\1.DefineAnInterfaceIPerson\obj\Debug\net6.0\refint\1.DefineAnInterfaceIPerson.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Practices with Interfaces and Abstraction\1.DefineAnInterfaceIPerson\obj\Debug\net6.0\1.DefineAnInterfaceIPerson.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Practices with Interfaces and Abstraction\1.DefineAnInterfaceIPerson\obj\Debug\net6.0\1.DefineAnInterfaceIPerson.genruntimeconfig.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Practices with Interfaces and Abstraction\1.DefineAnInterfaceIPerson\obj\Debug\net6.0\ref\1.DefineAnInterfaceIPerson.dll

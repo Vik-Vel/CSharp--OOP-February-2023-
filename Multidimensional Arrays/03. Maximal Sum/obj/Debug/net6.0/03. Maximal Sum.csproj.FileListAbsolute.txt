@@ -1,0 +1,15 @@
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\03. Maximal Sum\bin\Debug\net6.0\03. Maximal Sum.exe
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\03. Maximal Sum\bin\Debug\net6.0\03. Maximal Sum.deps.json
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\03. Maximal Sum\bin\Debug\net6.0\03. Maximal Sum.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\03. Maximal Sum\bin\Debug\net6.0\03. Maximal Sum.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\03. Maximal Sum\bin\Debug\net6.0\03. Maximal Sum.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\03. Maximal Sum\obj\Debug\net6.0\03. Maximal Sum.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\03. Maximal Sum\obj\Debug\net6.0\03. Maximal Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\03. Maximal Sum\obj\Debug\net6.0\03. Maximal Sum.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\03. Maximal Sum\obj\Debug\net6.0\03. Maximal Sum.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\03. Maximal Sum\obj\Debug\net6.0\03. Maximal Sum.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\03. Maximal Sum\obj\Debug\net6.0\03. Maximal Sum.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\03. Maximal Sum\obj\Debug\net6.0\refint\03. Maximal Sum.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\03. Maximal Sum\obj\Debug\net6.0\03. Maximal Sum.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\03. Maximal Sum\obj\Debug\net6.0\03. Maximal Sum.genruntimeconfig.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Multidimensional Arrays\03. Maximal Sum\obj\Debug\net6.0\ref\03. Maximal Sum.dll

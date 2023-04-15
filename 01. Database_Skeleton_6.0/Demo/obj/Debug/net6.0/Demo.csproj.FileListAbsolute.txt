@@ -1,0 +1,5 @@
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\01. Database_Skeleton_6.0\Demo\obj\Debug\net6.0\Demo.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\01. Database_Skeleton_6.0\Demo\obj\Debug\net6.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\01. Database_Skeleton_6.0\Demo\obj\Debug\net6.0\Demo.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\01. Database_Skeleton_6.0\Demo\obj\Debug\net6.0\Demo.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\01. Database_Skeleton_6.0\Demo\obj\Debug\net6.0\Demo.csproj.CoreCompileInputs.cache

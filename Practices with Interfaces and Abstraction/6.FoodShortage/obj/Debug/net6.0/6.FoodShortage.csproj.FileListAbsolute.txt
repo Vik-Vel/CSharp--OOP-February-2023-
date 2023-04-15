@@ -1,0 +1,15 @@
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Practices with Interfaces and Abstraction\6.FoodShortage\bin\Debug\net6.0\6.FoodShortage.exe
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Practices with Interfaces and Abstraction\6.FoodShortage\bin\Debug\net6.0\6.FoodShortage.deps.json
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Practices with Interfaces and Abstraction\6.FoodShortage\bin\Debug\net6.0\6.FoodShortage.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Practices with Interfaces and Abstraction\6.FoodShortage\bin\Debug\net6.0\6.FoodShortage.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Practices with Interfaces and Abstraction\6.FoodShortage\bin\Debug\net6.0\6.FoodShortage.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Practices with Interfaces and Abstraction\6.FoodShortage\obj\Debug\net6.0\6.FoodShortage.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Practices with Interfaces and Abstraction\6.FoodShortage\obj\Debug\net6.0\6.FoodShortage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Practices with Interfaces and Abstraction\6.FoodShortage\obj\Debug\net6.0\6.FoodShortage.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Practices with Interfaces and Abstraction\6.FoodShortage\obj\Debug\net6.0\6.FoodShortage.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Practices with Interfaces and Abstraction\6.FoodShortage\obj\Debug\net6.0\6.FoodShortage.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Practices with Interfaces and Abstraction\6.FoodShortage\obj\Debug\net6.0\6.FoodShortage.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Practices with Interfaces and Abstraction\6.FoodShortage\obj\Debug\net6.0\refint\6.FoodShortage.dll
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Practices with Interfaces and Abstraction\6.FoodShortage\obj\Debug\net6.0\6.FoodShortage.pdb
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Practices with Interfaces and Abstraction\6.FoodShortage\obj\Debug\net6.0\6.FoodShortage.genruntimeconfig.cache
+C:\Users\Виктория\Desktop\SoftUni\C# OOP\Practices with Interfaces and Abstraction\6.FoodShortage\obj\Debug\net6.0\ref\6.FoodShortage.dll
